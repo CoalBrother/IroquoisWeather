@@ -4,6 +4,6 @@
     <list>
         <mapping class="android.iroquoisweather.com.iroquoisweather.db.Province"/>
         <mapping class="android.iroquoisweather.com.iroquoisweather.db.City"/>
-        <mapping class="android.iroquoisweather.com.iroquoisweather.db.Country"/>
+        <mapping class="android.iroquoisweather.com.iroquoisweather.db.County"/>
     </list>
 </litepal>
